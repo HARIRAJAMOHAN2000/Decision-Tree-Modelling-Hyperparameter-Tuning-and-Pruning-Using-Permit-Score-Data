@@ -1,0 +1,176 @@
+Document_ID,AHJ_Name,AHJ_State,Score
+AL_01047_00000_01,"Dallas County, AL",AL,1
+CA_06005_00000_01,"Amador County, CA",CA,3
+CA_06005_00000_02,"Amador County, CA",CA,1
+CA_06011_00000_01,"Colusa County, CA",CA,2
+CA_06023_00000_01,"Humboldt County, CA",CA,2
+CA_06025_00000_01,"Imperial County, CA",CA,3
+CA_06029_00000_02,"Kern County, CA",CA,2
+CA_06029_00000_03,"Kern County, CA",CA,3
+CA_06037_00000_01,"Los Angeles County, CA",CA,3
+CA_06053_00000_01,"Monterey County, CA",CA,4
+CA_06059_00000_01,"Orange County, CA",CA,3
+CA_06065_00000_01,"Riverside County, CA",CA,3
+CA_06071_00000_01,"San Bernardino County, CA",CA,2
+CA_06113_00000_01,"Yolo County, CA",CA,2
+CO_08013_00000_01,"Boulder County, CO",CO,1
+CO_08035_00000_01,"Douglas County, CO",CO,0
+CO_08045_00000_01,"Garfield County, CO",CO,0
+CO_08045_00000_02,"Garfield County, CO",CO,1
+CO_08051_00000_01,"Gunnison County, CO",CO,1
+CO_08065_00000_01,"Lake County, CO",CO,1
+CO_08069_00000_01,"Larimer County, CO",CO,1
+CO_08069_00000_02,"Larimer County, CO",CO,1
+CO_08081_00000_01,"Moffat County, CO",CO,1
+CO_08087_00000_01,"Morgan County, CO",CO,1
+CO_08111_00000_01,"San Juan County, CO",CO,1
+CO_08117_00000_01,"Summit County, CO",CO,1
+DE_10001_00000_01,"Kent County, DE",DE,1
+DE_10003_00000_01,"New Castle County, DE",DE,2
+DE_10003_00000_02,"New Castle County, DE",DE,1
+DE_10003_00000_03,"New Castle County, DE",DE,2
+DE_10005_00000_01,"Sussex County, DE",DE,0
+DE_10005_00000_02,"Sussex County, DE",DE,1
+FL_12071_00000_01,"Lee County, FL",FL,0
+FL_12086_00000_01,"Miami-Dade County, FL",FL,2
+FL_12099_00000_01,"Palm Beach County, FL",FL,0
+GA_13059_00000_01,"Clarke County, GA",GA,2
+GA_13089_00000_01,"Dekalb County, GA",GA,2
+GA_13089_00000_02,"Dekalb County, GA",GA,2
+GA_13089_00000_03,"Dekalb County, GA",GA,2
+GA_13097_00000_01,"Douglas County, GA",GA,1
+GA_13135_00000_01,"Gwinnett County, GA",GA,2
+IA_19061_00000_01,"Dubuque County, IA",IA,1
+IA_19117_00000_01,"Lucas County, IA",IA,1
+IL_17089_00000_01,"Kane County, IL",IL,2
+IL_17089_00000_02,"Kane County, IL",IL,2
+IN_18005_00000_01,"Bartholomew County, IN",IN,1
+IN_18011_00000_01,"Boone County, IN",IN,1
+KY_21089_00000_01,"Greenup County, KY",KY,2
+LA_22051_00000_01,"Jefferson Parish, LA",LA,1
+MD_24005_00000_01,"Baltimore County, MD",MD,3
+MD_24031_00000_01,"Montgomery County, MD",MD,0
+MD_24033_00000_01,"Prince George'S County, MD",MD,3
+MI_26135_00000_01,"Oscoda County, MI",MI,0
+MI_26137_00000_01,"Otsego County, MI",MI,1
+MN_27053_00000_01,"Hennepin County, MN",MN,1
+MN_27075_00000_01,"Lake County, MN",MN,1
+MO_29510_00000_01,,MO,1
+NC_37003_00000_01,"Alexander County, NC",NC,2
+NC_37135_00000_01,"Orange County, NC",NC,2
+NE_31057_00000_01,"Dundy County, NE",NE,1
+NE_31065_00000_01,"Furnas County, NE",NE,0
+NJ_34009_00000_01,"Cape May County, NJ",NJ,1
+NJ_34039_00000_01,"Union County, NJ",NJ,0
+NV_32023_00000_01,"Nye County, NV",NV,2
+NY_36003_00000_01,"Allegany County, NY",NY,1
+NY_36061_00000_01,"New York County, NY",NY,1
+NY_36089_00000_01,"St. Lawrence County, NY",NY,1
+OH_39095_00000_01,"Lucas County, OH",OH,1
+OH_39097_00000_01,"Madison County, OH",OH,0
+OR_41037_00000_01,"Lake County, OR",OR,1
+OR_41047_00000_01,"Marion County, OR",OR,3
+SC_45045_00000_01,"Greenville County, SC",SC,3
+SC_45075_00000_01,"Orangeburg County, SC",SC,2
+SC_45091_00000_01,"York County, SC",SC,1
+TX_48113_00000_01,"Dallas County, TX",TX,1
+WA_53005_00000_01,"Benton County, WA",WA,1
+WA_53023_00000_01,"Garfield County, WA",WA,1
+WA_53033_00000_01,"King County, WA",WA,1
+AZ_04013_00370_01,"Phoenix, AZ",AZ,3
+CA_06001_02480_01,"Oakland, CA",CA,2
+CA_06019_01370_01,"Fresno, CA",CA,3
+CA_06029_00240_01,"Bakersfield, CA",CA,4
+CA_06037_01970_01,"Long Beach, CA",CA,3
+CA_06037_01980_01,"Los Angeles, CA",CA,2
+CA_06059_01660_01,"Huntington Beach, CA",CA,0
+CA_06065_03070_01,"Riverside, CA",CA,2
+CA_06067_03150_01,"Sacramento, CA",CA,2
+CA_06073_03260_01,"San Diego, CA",CA,3
+CA_06075_03290_01,"San Francisco, CA",CA,4
+CA_06085_03340_01,"San Jose, CA",CA,3
+CA_06095_01020_01,"Dixon, CA",CA,4
+CA_06099_02200_01,"Modesto, CA",CA,2
+CO_08001_00434_01,"Commerce City, CO",CO,2
+CO_08013_01530_01,"Longmont, CO",CO,3
+CO_08031_00600_01,"Denver, CO",CO,2
+CO_08051_00490_01,"Crested Butte, CO",CO,1
+CO_08065_01490_01,"Leadville, CO",CO,0
+CO_08097_00090_01,"Aspen, CO",CO,0
+CO_08123_00750_01,"Erie, CO",CO,3
+CT_09003_00680_01,"Southington, CT",CT,2
+CT_09011_00355_01,"Lyme, CT",CT,2
+DC_11001_00010_01,"Washington, DC",DC,3
+DE_10003_00490_01,"Wilmington, DE",DE,0
+FL_12011_00771_01,"Davie, FL",FL,1
+FL_12011_00771_02,"Davie, FL",FL,1
+FL_12031_01510_01,"Jacksonville, FL",FL,2
+FL_12095_02360_01,"Orlando, FL",FL,3
+GA_13121_00280_01,"Atlanta, GA",GA,2
+HI_15003_02400_01,"Honolulu, HI",HI,3
+IL_17031_01670_01,"Chicago, IL",IL,2
+IL_17031_05410_01,"Maywood, IL",IL,2
+IL_17031_07813_01,"Schaumburg, IL",IL,2
+IL_17031_09380_01,"Wilmette, IL",IL,2
+IL_17089_00560_01,"Batavia, IL",IL,2
+IL_17089_03300_01,"Geneva, IL",IL,3
+IL_17097_02276_01,"Deer Park, IL",IL,3
+IL_17201_07460_01,"Rockford, IL",IL,3
+LA_22071_01690_01,"New Orleans, LA",LA,1
+MA_25025_00120_01,"Boston, MA",MA,2
+MD_24031_01540_01,"Takoma Park, MD",MD,2
+MI_26067_02890_01,"Lyons, MI",MI,1
+MI_26163_01210_01,"Dearborn, MI",MI,2
+MN_27053_04760_01,"Minneapolis, MN",MN,1
+MN_27053_05950_01,"Robbinsdale, MN",MN,3
+MN_27123_02300_01,"Falcon Heights, MN",MN,1
+MN_27123_06070_01,"Roseville, MN",MN,3
+MN_27123_06330_01,"St Paul, MN",MN,3
+MN_27131_02310_01,"Faribault, MN",MN,2
+MN_27149_04930_01,"Morris, MN",MN,3
+MN_27163_05334_01,"Oakdale, MN",MN,3
+MN_27165_06270_01,"St James, MN",MN,2
+MO_29510_02575_01,"Eureka, MO",MO,2
+NC_37183_03750_01,"Raleigh, NC",NC,3
+NC_37183_03750_03,"Raleigh, NC",NC,2
+NC_37189_00560_01,"Boone, NC",NC,3
+NE_31109_02830_01,"Lincoln, NE",NE,1
+NH_33009_00507_01,"Waterville Valley, NH",NH,2
+NJ_34017_00190_01,"Bayonne, NJ",NJ,2
+NJ_34023_00844_01,"Edison, NJ",NJ,2
+NJ_34025_02760_01,"Red Bank, NJ",NJ,2
+NJ_34035_01417_01,"Hillsborough, NJ",NJ,3
+NY_36007_02970_01,"Johnson City, NY",NY,4
+OH_39049_01800_01,"Columbus, OH",OH,0
+OH_39061_01610_01,"Cincinnati, OH",OH,2
+OK_40017_03550_01,"Oklahoma City, OK",OK,1
+OR_41005_01650_01,"Portland, OR",OR,1
+OR_41005_01650_02,"Portland, OR",OR,1
+OR_41029_00070_01,"Ashland, OR",OR,0
+OR_41029_01310_01,"Medford, OR",OR,1
+PA_42003_06600_01,"Pittsburgh, PA",PA,1
+PA_42101_06540_01,"Philadelphia, PA",PA,1
+RI_44007_00190_01,"Providence, RI",RI,2
+SC_45045_01060_01,"Greer, SC",SC,3
+SC_45091_02593_01,"Tega Cay, SC",SC,0
+TN_47093_01300_01,"Knoxville, TN",TN,2
+TX_48029_06090_01,"San Antonio, TX",TX,3
+TX_48121_01840_01,"Denton, TX",TX,2
+TX_48157_03280_01,"Houston, TX",TX,3
+TX_48209_06170_01,"San Marcos, TX",TX,2
+TX_48245_00490_01,"Beaumont, TX",TX,1
+TX_48367_07280_01,"Weatherford, TX",TX,2
+TX_48453_00330_01,"Austin, TX",TX,3
+UT_49043_01440_01,"Park City, UT",UT,1
+VA_51510_00040_01,"Alexandria, VA",VA,3
+VT_50007_00200_01,"Essex Junction, VT",VT,2
+VT_50007_00620_01,"South Burlington, VT",VT,1
+WA_53033_00109_01,"Bellevue, WA",WA,1
+WA_53033_01960_01,"Seattle, WA",WA,3
+WA_53033_01960_02,"Seattle, WA",WA,2
+WA_53037_00620_01,"Ellensburg, WA",WA,3
+WA_53053_00800_01,"Gig Harbor, WA",WA,2
+WA_53053_02230_01,"Tacoma, WA",WA,3
+WA_53061_00080_01,"Arlington, WA",WA,1
+WI_55079_03100_01,"Milwaukee, WI",WI,2
+WI_55127_01550_01,"Elkhorn, WI",WI,2
